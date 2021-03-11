@@ -1,2 +1,2 @@
-    - [Preview](https://your-name.github.io/your-repo/)
-    - [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+- [Preview](https://oleh-senkiv.github.io/git-repo/)
+- [Pull Request](https://github.com/oleh-senkiv/git-repo/pull/1/files)
